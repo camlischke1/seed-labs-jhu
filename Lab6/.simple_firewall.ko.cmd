@@ -1,0 +1,1 @@
+cmd_/home/seed/Lab6/simple_firewall.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/seed/Lab6/simple_firewall.ko /home/seed/Lab6/simple_firewall.o /home/seed/Lab6/simple_firewall.mod.o
