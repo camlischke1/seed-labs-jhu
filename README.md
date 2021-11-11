@@ -40,7 +40,7 @@ Ref: http://www.cis.syr.edu/~wedu/seed/toc.pdf
     - [x] [Return-to-libc Attack Lab](./ReturnToLibc)
     - [ ] Format String Vulnerability Lab()
     - [ ] Race Condition Vulnerability Lab()
-    - [x] [Environment Variable and Set-UID Lab]( )
+    - [x] [Environment Variable and Set-UID Lab](./Env-SetUID)
     - [x] [Shellshock Attack Lab](./Shellshock)
     - [ ] *Dirty COW Attack Lab*
 - [ ] *Web Security (deprecated, just used to test `snort`)*
