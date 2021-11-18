@@ -64,7 +64,7 @@ Ref: http://www.cis.syr.edu/~wedu/seed/toc.pdf
     - [x]  [Public-Key Infrastructure (PKI) Lab](./PKI)
     - [ ]  Hash Length Extension Attack Lab]( )  (*Azure Ubuntu 20.4*)
     - [ ]  Transport Layer Security (TLS) Lab( ) (*Azure Ubuntu 20.4*)
-- [x] System Security
+- [ ] System Security
     - [ ] Meltdown Attack Lab( )
     - [ ] Spectre Attack Lab( )
 - [ ] Mobile Security
